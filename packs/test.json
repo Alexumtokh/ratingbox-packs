@@ -1,0 +1,4919 @@
+{
+  "schema_version": "2.0",
+  "id": "449f9853-5faa-404c-8d0d-1b0622488c1e",
+  "feature": 1,
+  "title": "Kitob nomi",
+  "date": "2026-11-13T21:19:00Z",
+  "chapters": [
+    {
+      "order": 1,
+      "title": "1-bob nomi",
+      "questions": [
+        {
+          "number": 1,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 1-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 1-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 1-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 1-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 1-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 2,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 2-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 2-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 2-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 2-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 2-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 3,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 3-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 3-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 3-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 3-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 3-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 4,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 4-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 4-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 4-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 4-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 4-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 5,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 5-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 5-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 5-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 5-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 5-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 6,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 6-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 6-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 6-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 6-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 6-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 7,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 7-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 7-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 7-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 7-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 7-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 8,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 8-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 8-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 8-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 8-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 8-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 9,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "1-bob, 9-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 9-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 9-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 9-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 9-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 10,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "1-bob, 10-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 10-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 10-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 10-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 11,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "1-bob, 11-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 11-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 11-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 11-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 11-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 12,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "1-bob, 12-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 12-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 12-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 12-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 13,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "1-bob, 13-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 13-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 13-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 13-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 13-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 14,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "1-bob, 14-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 14-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 15,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "1-bob, 15-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 15-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 16,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "1-bob, 16-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 16-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 17,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 17-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 17-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 17-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 17-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 17-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 18,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 18-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 18-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 18-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 18-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 18-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 19,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 19-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 19-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 19-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 19-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 19-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 20,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "1-bob, 20-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 20-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 20-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "1-bob, 20-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "1-bob, 20-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "2-bob nomi",
+      "questions": [
+        {
+          "number": 1,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 1-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 1-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 1-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 1-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 1-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 2,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 2-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 2-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 2-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 2-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 2-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 3,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 3-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 3-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 3-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 3-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 3-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 4,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 4-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 4-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 4-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 4-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 4-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 5,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 5-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 5-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 5-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 5-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 5-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 6,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 6-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 6-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 6-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 6-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 6-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 7,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 7-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 7-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 7-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 7-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 7-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 8,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 8-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 8-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 8-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 8-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 8-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 9,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "2-bob, 9-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 9-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 9-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 9-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 10,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "2-bob, 10-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 10-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 10-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 10-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 10-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 11,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "2-bob, 11-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 11-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 11-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 11-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 12,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "2-bob, 12-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 12-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 12-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 12-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 12-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 13,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "2-bob, 13-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 13-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 13-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 13-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 14,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "2-bob, 14-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 14-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 15,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "2-bob, 15-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 15-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 16,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "2-bob, 16-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 16-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 17,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 17-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 17-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 17-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 17-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 17-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 18,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 18-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 18-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 18-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 18-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 18-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 19,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 19-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 19-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 19-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 19-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 19-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 20,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "2-bob, 20-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 20-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 20-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "2-bob, 20-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "2-bob, 20-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "title": "3-bob nomi",
+      "questions": [
+        {
+          "number": 1,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 1-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 1-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 1-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 1-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 1-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 2,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 2-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 2-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 2-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 2-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 2-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 3,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 3-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 3-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 3-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 3-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 3-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 4,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 4-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 4-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 4-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 4-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 4-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 5,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 5-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 5-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 5-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 5-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 5-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 6,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 6-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 6-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 6-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 6-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 6-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 7,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 7-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 7-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 7-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 7-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 7-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 8,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 8-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 8-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 8-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 8-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 8-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 9,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "3-bob, 9-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 9-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 9-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 9-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 9-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 10,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "3-bob, 10-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 10-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 10-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 10-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 11,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "3-bob, 11-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 11-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 11-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 11-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 11-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 12,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "3-bob, 12-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 12-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 12-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 12-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 13,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "3-bob, 13-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 13-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 13-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 13-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 13-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 14,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "3-bob, 14-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 14-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 15,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "3-bob, 15-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 15-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 16,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "3-bob, 16-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 16-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 17,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 17-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 17-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 17-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 17-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 17-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 18,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 18-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 18-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 18-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 18-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 18-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 19,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 19-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 19-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 19-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 19-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 19-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 20,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "3-bob, 20-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 20-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 20-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "3-bob, 20-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "3-bob, 20-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "title": "4-bob nomi",
+      "questions": [
+        {
+          "number": 1,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 1-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 1-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 1-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 1-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 1-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 2,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 2-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 2-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 2-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 2-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 2-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 3,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 3-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 3-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 3-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 3-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 3-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 4,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 4-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 4-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 4-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 4-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 4-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 5,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 5-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 5-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 5-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 5-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 5-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 6,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 6-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 6-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 6-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 6-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 6-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 7,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 7-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 7-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 7-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 7-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 7-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 8,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 8-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 8-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 8-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 8-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 8-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 9,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "4-bob, 9-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 9-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 9-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 9-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 10,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "4-bob, 10-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 10-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 10-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 10-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 10-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 11,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "4-bob, 11-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 11-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 11-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 11-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 12,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "4-bob, 12-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 12-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 12-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 12-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 12-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 13,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "4-bob, 13-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 13-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 13-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 13-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 14,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "4-bob, 14-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 14-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 15,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "4-bob, 15-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 15-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 16,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "4-bob, 16-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 16-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 17,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 17-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 17-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 17-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 17-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 17-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 18,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 18-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 18-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 18-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 18-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 18-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 19,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 19-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 19-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 19-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 19-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 19-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 20,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "4-bob, 20-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 20-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 20-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "4-bob, 20-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "4-bob, 20-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "title": "5-bob nomi",
+      "questions": [
+        {
+          "number": 1,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 1-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 1-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 1-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 1-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 1-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 2,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 2-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 2-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 2-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 2-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 2-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 3,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 3-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 3-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 3-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 3-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 3-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 4,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 4-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 4-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 4-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 4-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 4-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 5,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 5-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 5-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 5-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 5-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 5-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 6,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 6-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 6-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 6-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 6-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 6-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 7,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 7-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 7-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 7-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 7-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 7-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 8,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 8-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 8-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 8-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 8-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 8-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 9,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "5-bob, 9-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 9-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 9-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 9-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 9-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 10,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "5-bob, 10-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 10-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 10-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 10-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 11,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "5-bob, 11-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 11-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 11-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 11-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 11-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 12,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "5-bob, 12-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 12-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 12-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 12-savol uchun tushuntirish matni (3 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 13,
+          "importance": 0,
+          "hardness": 2,
+          "type": "multiple_choice",
+          "time_sec": 80,
+          "scoring_rule": "partial_credit",
+          "question": {
+            "text": "5-bob, 13-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_3",
+              "text": "3-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 13-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 13-savol: 4-variant xato javob izohi."
+            },
+            {
+              "id": "o_5",
+              "text": "5-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 13-savol: 5-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 13-savol uchun tushuntirish matni (2 ta to'g'ri javob).",
+            "formula": null
+          }
+        },
+        {
+          "number": 14,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "5-bob, 14-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 14-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 15,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "5-bob, 15-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 15-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 16,
+          "importance": 1,
+          "hardness": 2,
+          "type": "matching",
+          "time_sec": 90,
+          "scoring_rule": "direct_ratio",
+          "question": {
+            "text": "5-bob, 16-savol..",
+            "media_url": null
+          },
+          "options": null,
+          "matching_data": {
+            "premises": [
+              {
+                "id": "p_1",
+                "text": "savol1"
+              },
+              {
+                "id": "p_2",
+                "text": "savol2"
+              },
+              {
+                "id": "p_3",
+                "text": "savol3"
+              }
+            ],
+            "responses": [
+              {
+                "id": "r_1",
+                "text": "match1"
+              },
+              {
+                "id": "r_2",
+                "text": "match2"
+              },
+              {
+                "id": "r_3",
+                "text": "match3"
+              },
+              {
+                "id": "r_4",
+                "text": "match4"
+              }
+            ],
+            "correct_matches": [
+              {
+                "premise_id": "p_1",
+                "response_id": "r_1"
+              },
+              {
+                "premise_id": "p_2",
+                "response_id": "r_2"
+              },
+              {
+                "premise_id": "p_3",
+                "response_id": "r_3"
+              }
+            ]
+          },
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 16-savol uchun moslashtirish tushuntirishi.",
+            "formula": null
+          }
+        },
+        {
+          "number": 17,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 17-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 17-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 17-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 17-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 17-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 18,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 18-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 18-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 18-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 18-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 18-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 19,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 19-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 19-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 19-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 19-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 19-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        },
+        {
+          "number": 20,
+          "importance": 0,
+          "hardness": 2,
+          "type": "single_choice",
+          "time_sec": 35,
+          "scoring_rule": "all_or_nothing",
+          "question": {
+            "text": "5-bob, 20-savol..",
+            "media_url": null
+          },
+          "options": [
+            {
+              "id": "o_1",
+              "text": "1-to'g'ri javob",
+              "is_correct": true,
+              "distractor_diagnosis": null
+            },
+            {
+              "id": "o_2",
+              "text": "2-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 20-savol: 2-variant xato javob izohi."
+            },
+            {
+              "id": "o_3",
+              "text": "3-javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 20-savol: 3-variant xato javob izohi."
+            },
+            {
+              "id": "o_4",
+              "text": "4-xato javob",
+              "is_correct": false,
+              "distractor_diagnosis": "5-bob, 20-savol: 4-variant xato javob izohi."
+            }
+          ],
+          "matching_data": null,
+          "voice_dialog": null,
+          "explanation": {
+            "summary": "5-bob, 20-savol uchun tushuntirish matni.",
+            "formula": null
+          }
+        }
+      ]
+    }
+  ]
+}
