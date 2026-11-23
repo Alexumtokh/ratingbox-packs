@@ -3,8 +3,12 @@
 Question packs for the RatingBox app.
 
 ## Adding or updating a pack
-Upload the `.json` / `.zip` file into the `packs/` folder (Add file → Upload files, or `git push`).
-To update a pack, upload it again **with the same name**. To remove one, delete it from `packs/`.
+Upload the `.json` / `.zip` file into its kind's folder (Add file → Upload files, or `git push`):
+- `packs/questions/`: question packs (`kind: "questions"`)
+- `packs/books/`: book content (`kind: "book"`)
+
+Files right in `packs/` count as questions (old layout). A file name must be unique across the folders.
+To update a pack, upload it again **with the same name** into the same folder. To remove one, delete it.
 File names: Latin letters, digits, `.`, `-`, `_` only (no spaces).
 
 The **Publish packs** action then builds `manifest.json` (a version goes up only when the file changed)

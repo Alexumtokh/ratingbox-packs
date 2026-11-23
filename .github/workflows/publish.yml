@@ -29,13 +29,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Also copies every pack (packs/, packs/questions/, packs/books/) to out/.
       - name: Build manifest
-        run: python3 scripts/build_manifest.py packs manifest.json
-
-      - name: Collect files
         run: |
-          mkdir out
-          find packs -maxdepth 1 -type f \( -name '*.json' -o -name '*.zip' \) ! -name titles.json -exec cp {} out/ \;
+          python3 scripts/build_manifest.py packs manifest.json out
           cp manifest.json out/
           ls -l out
 
