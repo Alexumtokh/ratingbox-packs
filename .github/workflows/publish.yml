@@ -7,7 +7,7 @@ name: Publish packs
 on:
   push:
     branches: [main]
-    paths: ["packs/**"]
+    paths: ["packs/**", ".github/workflows/publish.yml", "scripts/**"]
   workflow_dispatch:
 
 permissions:
@@ -54,12 +54,17 @@ jobs:
       - name: Netlify
         if: env.NETLIFY_TOKEN != '' && env.NETLIFY_SITE_ID != ''
         run: |
-          (cd out && zip -qr ../site.zip .)
-          curl --fail -sS -o /dev/null \
+          mkdir site && cp out/* site/
+          printf '/manifest.json\n  Cache-Control: no-cache\n' > site/_headers
+          echo '<!doctype html><title>RatingBox packs</title>' > site/index.html
+          (cd site && zip -qr ../site.zip .)
+          unzip -l site.zip
+          curl --fail -sS -o deploy.json \
             -H "Authorization: Bearer $NETLIFY_TOKEN" \
             -H "Content-Type: application/zip" \
             --data-binary @site.zip \
             "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys"
+          python3 -c "import json;d=json.load(open('deploy.json'));print(d.get('name'),d.get('ssl_url'),d.get('state'))"
 
       - name: GitLab
         if: env.GITLAB_TOKEN != '' && env.GITLAB_PROJECT_ID != ''
