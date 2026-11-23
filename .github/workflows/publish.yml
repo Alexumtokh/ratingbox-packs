@@ -1,0 +1,83 @@
+# Any change in packs/ (browser upload, git push, the app) publishes all
+# packs + manifest.json to the GitHub release "packs", Netlify and GitLab.
+# Secrets: NETLIFY_TOKEN, NETLIFY_SITE_ID, GITLAB_TOKEN, GITLAB_PROJECT_ID.
+# A host whose secrets are missing is skipped.
+name: Publish packs
+
+on:
+  push:
+    branches: [main]
+    paths: ["packs/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-packs
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      NETLIFY_TOKEN: ${{ secrets.NETLIFY_TOKEN }}
+      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+      GITLAB_PROJECT_ID: ${{ secrets.GITLAB_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build manifest
+        run: python3 scripts/build_manifest.py packs manifest.json
+
+      - name: Collect files
+        run: |
+          mkdir out
+          find packs -maxdepth 1 -type f \( -name '*.json' -o -name '*.zip' \) ! -name titles.json -exec cp {} out/ \;
+          cp manifest.json out/
+          ls -l out
+
+      # Pack files go first, manifest.json last, so the manifest never
+      # points to a file that is not uploaded yet.
+      - name: GitHub release
+        run: |
+          gh release view packs >/dev/null 2>&1 ||
+            gh release create packs --title "Packs" --notes "Savollar paketlari" --latest=false
+          find out -type f ! -name manifest.json -print0 | xargs -0 -r gh release upload packs --clobber
+          gh release upload packs out/manifest.json --clobber
+          gh release view packs --json assets -q '.assets[].name' | while IFS= read -r a; do
+            [ -e "out/$a" ] || gh release delete-asset packs "$a" -y
+          done
+
+      - name: Netlify
+        if: env.NETLIFY_TOKEN != '' && env.NETLIFY_SITE_ID != ''
+        run: |
+          (cd out && zip -qr ../site.zip .)
+          curl --fail -sS -o /dev/null \
+            -H "Authorization: Bearer $NETLIFY_TOKEN" \
+            -H "Content-Type: application/zip" \
+            --data-binary @site.zip \
+            "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys"
+
+      - name: GitLab
+        if: env.GITLAB_TOKEN != '' && env.GITLAB_PROJECT_ID != ''
+        run: |
+          up() {
+            curl --fail -sS -o /dev/null --header "PRIVATE-TOKEN: $GITLAB_TOKEN" --upload-file "$1" \
+              "https://gitlab.com/api/v4/projects/$GITLAB_PROJECT_ID/packages/generic/packs/latest/$(basename "$1")"
+            echo "  $(basename "$1")"
+          }
+          for f in out/*; do [ "$(basename "$f")" = manifest.json ] || up "$f"; done
+          up out/manifest.json
+
+      - name: Save manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update manifest"
+          git pull --rebase
+          git push
