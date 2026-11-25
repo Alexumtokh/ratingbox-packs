@@ -48,26 +48,31 @@ jobs:
             [ -e "out/$a" ] || gh release delete-asset packs "$a" -y
           done
 
+      # Each host step may fail on its own: the others still run and the
+      # manifest is still saved (the app skips a host that does not answer).
       - name: Netlify
         if: env.NETLIFY_TOKEN != '' && env.NETLIFY_SITE_ID != ''
+        continue-on-error: true
         run: |
           mkdir site && cp out/* site/
           printf '/manifest.json\n  Cache-Control: no-cache\n' > site/_headers
           echo '<!doctype html><title>RatingBox packs</title>' > site/index.html
           (cd site && zip -qr ../site.zip .)
           unzip -l site.zip
-          curl --fail -sS -o deploy.json \
+          curl --fail-with-body -sS -o deploy.json \
             -H "Authorization: Bearer $NETLIFY_TOKEN" \
             -H "Content-Type: application/zip" \
             --data-binary @site.zip \
-            "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys"
+            "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys" ||
+            { echo "Netlify javobi:"; cat deploy.json; echo; exit 1; }
           python3 -c "import json;d=json.load(open('deploy.json'));print(d.get('name'),d.get('ssl_url'),d.get('state'))"
 
       - name: GitLab
         if: env.GITLAB_TOKEN != '' && env.GITLAB_PROJECT_ID != ''
+        continue-on-error: true
         run: |
           up() {
-            curl --fail -sS -o /dev/null --header "PRIVATE-TOKEN: $GITLAB_TOKEN" --upload-file "$1" \
+            curl --fail-with-body -sS --header "PRIVATE-TOKEN: $GITLAB_TOKEN" --upload-file "$1" \
               "https://gitlab.com/api/v4/projects/$GITLAB_PROJECT_ID/packages/generic/packs/latest/$(basename "$1")"
             echo "  $(basename "$1")"
           }
