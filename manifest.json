@@ -1,5 +1,5 @@
 {
-  "generated": 1795567574,
+  "generated": 1795593916,
   "files": [
     {
       "id": "siyrat_q_meaning.json",
@@ -7,6 +7,14 @@
       "file": "siyrat_q_meaning.json.zip",
       "sha256": "864fe70fb56d0d2d26465d730aecc466450954b8cfc8a534acca756bd1b114a0",
       "size": 221397,
+      "kind": "questions"
+    },
+    {
+      "id": "siyrat_q_translation.json",
+      "version": 1,
+      "file": "siyrat_q_translation.json.zip",
+      "sha256": "4d1c5b20f30f534545463096501e301d8602bb2ea0ea25d8aaec4b0841681a0f",
+      "size": 221806,
       "kind": "questions"
     },
     {
