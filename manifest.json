@@ -1,6 +1,22 @@
 {
-  "generated": 1795617885,
+  "generated": 1795662730,
   "files": [
+    {
+      "id": "mabdaul_q_grammar.json",
+      "version": 1,
+      "file": "mabdaul_q_grammar.json.zip",
+      "sha256": "06d88a54eee1d4133beeb0fc738233d8840b055e12147a38bb990d0dc0c4a12d",
+      "size": 228313,
+      "kind": "questions"
+    },
+    {
+      "id": "mabdaul_q_translation.json",
+      "version": 1,
+      "file": "mabdaul_q_translation.json.zip",
+      "sha256": "2232faa8f965ebfb5c9bb543b3aba7718ecbfe45724082735f167162fc9da280",
+      "size": 439579,
+      "kind": "questions"
+    },
     {
       "id": "siyrat_q_meaning.json",
       "version": 1,
@@ -32,6 +48,14 @@
       "sha256": "02e23189080bee7a6ccca3c2c9f11057acfcbd3421a562fe58205943244e6527",
       "size": 144964,
       "kind": "questions"
+    },
+    {
+      "id": "mabdaul_qiroa_1",
+      "version": 1,
+      "file": "mabdaul_qiroa_1.json",
+      "sha256": "26d96af5f0c7acbc636dcf4f043cae233cf0ced4706354fcd4b0ab7d17106598",
+      "size": 640080,
+      "kind": "book"
     },
     {
       "id": "siyrat",
