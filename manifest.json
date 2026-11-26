@@ -1,5 +1,5 @@
 {
-  "generated": 1795662730,
+  "generated": 1795674126,
   "files": [
     {
       "id": "mabdaul_q_grammar.json",
@@ -11,10 +11,10 @@
     },
     {
       "id": "mabdaul_q_translation.json",
-      "version": 1,
+      "version": 2,
       "file": "mabdaul_q_translation.json.zip",
-      "sha256": "2232faa8f965ebfb5c9bb543b3aba7718ecbfe45724082735f167162fc9da280",
-      "size": 439579,
+      "sha256": "f5f3b3c0f742d35352b63b949e0d76abab6c5adc1a92ed591d270339ee675584",
+      "size": 565574,
       "kind": "questions"
     },
     {
