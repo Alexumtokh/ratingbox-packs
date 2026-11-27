@@ -1,20 +1,20 @@
 {
-  "generated": 1795674126,
+  "generated": 1795776661,
   "files": [
     {
       "id": "mabdaul_q_grammar.json",
-      "version": 1,
+      "version": 2,
       "file": "mabdaul_q_grammar.json.zip",
-      "sha256": "06d88a54eee1d4133beeb0fc738233d8840b055e12147a38bb990d0dc0c4a12d",
-      "size": 228313,
+      "sha256": "d1a1d69b4d1c8294a21ec8df894837126b2acd0d04457b7c1a98c599aac88296",
+      "size": 226937,
       "kind": "questions"
     },
     {
       "id": "mabdaul_q_translation.json",
-      "version": 2,
+      "version": 3,
       "file": "mabdaul_q_translation.json.zip",
-      "sha256": "f5f3b3c0f742d35352b63b949e0d76abab6c5adc1a92ed591d270339ee675584",
-      "size": 565574,
+      "sha256": "11aa14a7136ba9ac618e7ec747ad6f922fc5b2b172c242124393685e1b487ffe",
+      "size": 433706,
       "kind": "questions"
     },
     {
@@ -51,10 +51,10 @@
     },
     {
       "id": "mabdaul_qiroa_1",
-      "version": 1,
+      "version": 2,
       "file": "mabdaul_qiroa_1.json",
-      "sha256": "26d96af5f0c7acbc636dcf4f043cae233cf0ced4706354fcd4b0ab7d17106598",
-      "size": 640080,
+      "sha256": "1aade2a253390238f4e87f39614ff515272e234f8e35bde4f982569a0e58f7af",
+      "size": 640364,
       "kind": "book"
     },
     {
