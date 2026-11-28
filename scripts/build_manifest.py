@@ -2,7 +2,8 @@
 """Builds manifest.json for every .json / .zip pack in packs/.
 
 The folder gives the file's kind (the app imports each kind into its own
-data): packs/questions/ -> "questions", packs/books/ -> "book". Files right
+data): packs/questions/ -> "questions", packs/books/ -> "book",
+packs/dicts/ -> "dict". Files right
 in packs/ are "questions" (the old layout). Hosts keep files flat, so a
 file name must be unique across all folders.
 
@@ -23,7 +24,8 @@ packs_dir, manifest_path = sys.argv[1], sys.argv[2]
 out_dir = sys.argv[3] if len(sys.argv) > 3 else None
 
 # Folder (relative to packs/) -> kind written to the manifest.
-KINDS = {"": "questions", "questions": "questions", "books": "book"}
+KINDS = {"": "questions", "questions": "questions", "books": "book",
+         "dicts": "dict"}
 
 old = {}
 if os.path.exists(manifest_path):
