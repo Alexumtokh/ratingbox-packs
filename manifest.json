@@ -1,5 +1,5 @@
 {
-  "generated": 1795776661,
+  "generated": 1795881644,
   "files": [
     {
       "id": "mabdaul_q_grammar.json",
@@ -64,6 +64,24 @@
       "sha256": "2a0fc8a556160124f9787cad72afaa1ac0f742bff2383a7568f8a76e31adc1a9",
       "size": 266154,
       "kind": "book"
+    },
+    {
+      "id": "dict_ar_uz.json",
+      "version": 1,
+      "file": "dict_ar_uz.json.zip",
+      "sha256": "236fb245f1333e4b2d05c29335e0f2e8311bddf4e0158b0a9bc58b6fbab4e4f2",
+      "size": 2171735,
+      "kind": "dict",
+      "title": "Арабча-ўзбекча луғат"
+    },
+    {
+      "id": "dict_uz_ar.json",
+      "version": 1,
+      "file": "dict_uz_ar.json.zip",
+      "sha256": "3627d388621bf871b906c2c457c742ff42d2a87bdd295a9b85212ee853ac42da",
+      "size": 612385,
+      "kind": "dict",
+      "title": "Ўзбекча-арабча луғат"
     }
   ]
 }
